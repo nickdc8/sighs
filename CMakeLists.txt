@@ -10,7 +10,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_subdirectory(JUCE)
 
 juce_add_plugin(Sighs
-    COMPANY_NAME "Nick Cox"
+    COMPANY_NAME "Independent Audio"
     PLUGIN_MANUFACTURER_CODE Ncox
     PLUGIN_CODE Sigh
     FORMATS VST3 AU Standalone
